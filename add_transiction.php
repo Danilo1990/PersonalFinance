@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </form>
 
 <div>
-    Prezzo Bitcoin: <span id="btc-price">Caricamento...</span> €<br>
+    Prezzo Bitcoin : <span id="btc-price">Caricamento...</span> €<br>
     Valore del tuo BTC (0,00745987): <span id="btc-total">Caricamento...</span> €
 </div>
 
