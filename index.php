@@ -1,3 +1,3 @@
 <?php 
 
-echo 'Ciao a tutti quanti';
+echo 'Ciao';
